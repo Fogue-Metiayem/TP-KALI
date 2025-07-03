@@ -1,7 +1,7 @@
 ## Rapport de Test d'Intrusion - Laboratoire Contrôlé
 ```
-Auteur : SALEM KAWEINA NGAMDERE
-Date : 30 Mai 2025
+Auteur : FOGUE MICHELE
+Date : 03 juillet 2025
 Environnement : Local Lab (VM Kali Linux + Metasploitable 2.0)
 ```
 
